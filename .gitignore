@@ -1,4 +1,5 @@
 # Various IDEs and Editors
+*.Zone.Identifier
 .vscode/
 .idea/
 **/*~
